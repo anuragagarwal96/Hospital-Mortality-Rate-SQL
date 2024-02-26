@@ -1,1 +1,1 @@
-# Hospital Morality Rate SQL Analysis
+# Hospital Mortality Rate SQL Analysis
