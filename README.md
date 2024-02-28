@@ -1,6 +1,8 @@
-# **Hospital Mortality Rate SQL Analysis**
+<h1 align="center">Hospital Mortality Rate SQL Analysis</h1>
 
-![people-walking-sitting-hospital-building-city-clinic-glass-exterior-flat-vector-illustration-medical-help-emergency-architecture-healthcare-concept_74855-10130](https://github.com/anuragagarwal96/Hospital-Mortality-Rate-SQL/assets/43496215/ccee1d9c-ff3c-4e1d-b41c-dd2ac246ed27)
+<p align="center">
+  <img src="https://github.com/anuragagarwal96/Hospital-Mortality-Rate-SQL/assets/43496215/25aa4420-b6e8-458c-bc51-f6022b66d717)" />
+</p>
 
 [Dataset Used](https://www.kaggle.com/datasets/mitishaagarwal/patient/data)
 
