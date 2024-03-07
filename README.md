@@ -6,7 +6,7 @@
 
 [Dataset Used](https://www.kaggle.com/datasets/mitishaagarwal/patient/data)
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/anurag.agarwal5052/vizzes)
+[Tableau Dashboard](https://public.tableau.com/app/profile/anurag.agarwal5052/viz/Hospital_Mortality_Analysis_17098122128090/MortalityAnalysis)
 
 **Tools Used:**
 
